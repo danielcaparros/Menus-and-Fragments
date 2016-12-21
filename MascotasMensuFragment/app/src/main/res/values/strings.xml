@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="pnombre">Nombre</string>
+    <string name="ppuntuacion">0</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca">Acerca de</string>
+    <string name="menu_favoritos">Favoritos</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_correo">Correo:</string>
+    <string name="hint_mensaje">Mensaje:</string>
+    <string name="btn_enviar">Enviar comentario</string>
+    <string name="pdesarrolador">Daniel Caparros</string>
+    <string name="pfecha">20/12/2016</string>
+    <string name="pprograma">Menus and Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
